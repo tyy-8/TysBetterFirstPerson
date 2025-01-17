@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TysBetterFirstPerson", "TysBetterFirstPerson.csproj", "{49808020-E632-4D16-BB6D-E1EC0EF020AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49808020-E632-4D16-BB6D-E1EC0EF020AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49808020-E632-4D16-BB6D-E1EC0EF020AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49808020-E632-4D16-BB6D-E1EC0EF020AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49808020-E632-4D16-BB6D-E1EC0EF020AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
